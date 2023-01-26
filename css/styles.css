@@ -1,0 +1,74 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Lobster&family=Manrope&family=Open+Sans&family=Poppins&family=Work+Sans&display=swap');
+
+/* common color */
+
+
+
+/* common styles */
+body {
+    font-family: 'Manrope', serif;
+}
+
+.ch-btn-primary {
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    border-radius: 10px;
+}
+
+.ch-up-right-arrow {
+    height: 24;
+    width: 24;
+}
+
+.ch-bg-img {
+    background-size: cover;
+}
+
+.ch-banner-rating {
+    height: 100px;
+    width: 255px;
+    background: #FFFFFF;
+    box-shadow: 0px 7px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 10px;
+    border: none;
+    position: relative;
+    top: -60px;
+}
+
+.ch-rating-star {
+    height: 45px;
+    width: 45px;
+}
+
+.ch-bg-lg {
+    background: linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0) 100%);
+    border-radius: 10px;
+}
+
+.ch-great-bg-size-g {
+    height: 136px;
+}
+
+.ch-great-g1 {
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    opacity: 0.1;
+    border-radius: 10px;
+}
+.ch-great-g2 {
+    background: linear-gradient(90deg, #D9D9D9 0%, rgba(255, 255, 255, 0) 100%);
+    border-radius: 10px;
+}
+
+.ch-great-bg-size {
+    height: 355px;
+}
+
+.ch-great-bg1 {
+    background: rgba(87, 118, 57, 0.1);
+    border-radius: 10px;
+}
+
+.ch-great-bg2 {
+    background: rgba(230, 166, 35, 0.1);
+    border-radius: 10px;
+}
