@@ -1,10 +1,6 @@
 /* fonts */
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Lobster&family=Manrope&family=Open+Sans&family=Poppins&family=Work+Sans&display=swap');
 
-/* common color */
-
-
-
 /* common styles */
 body {
     font-family: 'Manrope', serif;
@@ -75,7 +71,7 @@ body {
 }
 
 .ch-meet-clients {
-    height: 650px;
+    /* height: 650px; */
     background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
     border-radius: 10px;
 }
@@ -98,7 +94,6 @@ body {
 }
 .ch-footer-bg{
     background: linear-gradient(270deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 137, 56, 0.1) 100%);
-    height: 750px;
 }
 .ch-footer-input{
     background: linear-gradient(270deg, rgba(255, 0, 0, 0.1) 100%, rgba(255, 137, 56, 0.1) 100%);
